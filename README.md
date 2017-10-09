@@ -7,5 +7,5 @@ The three algorithms in the <b> adwords.py </b> file include:
 * MSVV (Mehta, Saberi, Vazirani, Vazirani)
 * Balance
 
-queries.txt contains the user queries  
-bidderdataset.csv contains bidder data such as the queries they are interested in adverstising, their bids and budget.
+**queries.txt** contains the user queries  
+**bidderdataset.csv** contains bidder data such as the queries they are interested in adverstising, their bids and budget.
